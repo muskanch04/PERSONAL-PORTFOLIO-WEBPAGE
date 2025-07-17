@@ -134,3 +134,9 @@ The **Portfolio Website** effectively blends design and development best practic
 
 
 ## 💻 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8e1a5d28-8fab-4267-a953-18bbe6d173ee)
+![Image](https://github.com/user-attachments/assets/2c2a7145-acc8-4dea-b51d-512cc3952cf7)
+![Image](https://github.com/user-attachments/assets/bb75e078-ad41-4d1b-80c2-4ae20a5fbf0f)
+![Image](https://github.com/user-attachments/assets/8372a894-f2a2-4bf3-a11f-edec8f092b16)
+![Image](https://github.com/user-attachments/assets/64972f4b-2fb7-45a6-964a-d3236062c5f4)
